@@ -27,6 +27,8 @@
 
 ## Credenciales
 
+A nivel interno pueden crearse nuevos usuarios y productos gracias al manejo de roles 
+
 - Administrador principal:
     - Correo:       admin@admin.com
     - Constraseña:  123456789
