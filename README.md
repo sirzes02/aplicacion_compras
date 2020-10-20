@@ -15,12 +15,15 @@
 ## Proceso de ejecutado
 
 - Clonar el repositorio.
+```bash
 - cd aplicacion_compras.
 - composer install
 - npm i
 - cp .env.example .env
 - php artisan key:generate
 - php artisan migrate --seed
+```
+
 
 ## Credenciales
 
