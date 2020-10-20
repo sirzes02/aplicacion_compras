@@ -14,8 +14,8 @@
 
 ## Proceso de ejecutado
 
-- Clonar el repositorio.
 ```bash
+- git clone https://github.com/sirzes02/aplicacion_compras.git
 - cd aplicacion_compras.
 - composer install
 - npm i
